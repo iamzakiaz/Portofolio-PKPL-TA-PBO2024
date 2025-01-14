@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"PelangganTest::testValidData":0.004,"PelangganTest::testInvalidNama":0.001,"PelangganTest::testNamaValidation":0.676,"PelangganTest::testNoKtpValidation":0,"PelangganTest::testEmailValidation":0,"PelangganTest::testPasswordValidation":0,"PelangganTest::testInsertData":1.565}}
